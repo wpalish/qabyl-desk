@@ -1,0 +1,19 @@
+## verdict
+
+Verdict pass on F1/F2/F3 only. Ship covers the scored fixes, not the whole surface.
+
+Full review retained: [JSON](finish-review-full-before-fixes.json), [Markdown](finish-review-full-before-fixes.md).
+
+All 12 required new raw viewport captures were visually opened. Each exists, its actual raster dimensions and SHA256 match the packet, and its referenced UI source hashes match current source. Captures are valid 1126px/400px ordinary viewport/sectional evidence, not fullPage. The supplied log records 41 passing tests; tests and detector were not rerun by this reviewer.
+
+- F1 — resolved: At 1126px and 400px, selecting B after A leaves no old preview and no final publication action (fix-F1-B-clears-A1126.jpg / fix-F1-B-clears-A400.jpg). A fresh B preview restores the final action (fix-F1-fresh-B-preview400.jpg); the opened desktop snapshot names B, its own template ID, content version 2 and B-only RU/KK section text (fix-F1-B-snapshot1126.jpg). The targeted source binds template ID, content version, workspace revision and result snapshot; selection invalidates pending preview replies. The packet reports native Enter then published only B. The captures establish selection clearing and the correctly bound B preview; this review did not operate the browser or repeat publication.
+- F2 — resolved: Working-view captures at 1126px/400px show only the unarchived beta regression issue, while explicit history shows all three issues and archive labels on alpha and the old beta issue (fix-F2-working-excludes-archives1126.jpg, fix-F2-working-list400.jpg, fix-F2-history-list400.jpg, fix-F2-history-with-alpha1126.jpg). The alpha historical detail retains its manual note; recipient desktop/mobile captures retain the frozen KK content, content version 3, issue version 2 and saved manual note (fix-recipient-still-frozen1126.jpg, fix-recipient-still-frozen-top400.jpg, fix-recipient-still-frozen-bottom400.jpg). Targeted source filters working rows only and selects detail from the filtered set.
+- F3 — resolved: cabinet.md now explicitly and retrospectively dates THESIS, OWN-WORLD, STORY, FIRST VIEWPORT and FORM, with FINISH added. It preserves the confirmed correspondence form and inherited palette, truthfully says no concept-seed roll/reference/decision comp existed, and records the narrow inherited-extension rationale without fabricating prior approval or an unavailable-tool result. The original absence of historical seed evidence remains disclosed. This resolves the persistence remedy stated in the full review; it does not manufacture that missing history.
+
+Regressions: No material regression introduced by the scored fix batch is visible in the supplied captures or targeted changed paths.
+
+## remaining
+
+clear
+
+disposition: ship

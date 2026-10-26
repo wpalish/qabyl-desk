@@ -1,0 +1,101 @@
+{
+  "product": "qabyl-desk",
+  "title": "QabylDesk",
+  "reference": 20,
+  "version": "0.1.0",
+  "as_of": "2026-10-26T10:38:20.998021+00:00",
+  "tests": {
+    "passed": 41,
+    "failed": 0,
+    "skipped": 0,
+    "todo": 0,
+    "reporter": "tap",
+    "log": "docs/test-output.txt",
+    "store": 21,
+    "HTTP": 9,
+    "controller": 11,
+    "designed_cases_not_claimed_wholesale_executed": 36
+  },
+  "browser": {
+    "status": "ui_workflow_passed",
+    "synthetic_only": true,
+    "actual_viewports": [
+      1121,
+      1126,
+      400,
+      2240
+    ],
+    "desktop": "docs/fix-recipient-still-frozen1126.jpg",
+    "mobile": "docs/fix-recipient-still-frozen-top400.jpg",
+    "workflow": "docs/browser-proof.json",
+    "external_action": false,
+    "scope": "Historical37-stage functional flows plus current12fixcaptures1126/400;ordinaryrawviewportJPEGs,allopened/sourcehashstaged;2240onlyprivatefaultfixturewide,notnewresponsivecertification."
+  },
+  "acceptance": [
+    "Adminauthored SYN_PACKET:two bilingualsectionspositions1/3;completepublishv3→4;alphaKKissue5/betaRU6. Independentadminunrelated7 leftbothownDTOsexact;nativeTab/Enter alphaonceack8 withfrozenKKnote/contentv3/dispatchv2.",
+    "Betaunsavednote andpreview→aboutblank/adminwithdraw9→back revalidatedaccess andhidpacketcontent. Secondrefresh exposedorphan-overwritebug;realredtest thenminimalfix. Newmeaningfultitle10/pubv411/betaissue12/withdraw13 provedrepeatrefresh retainsownnoteexact,oldv3historiesimmutable. Logout/identitychangeclear;fullreloadmemorylossnotpromised.",
+    "Ownedruntime2481→5884at13 preservedwholeworkspace/audit/all5own tables and58existingprivateDBs;browserinapprefresh stillretainednote. Fourservedstaticfilesexactbytes/no-cache.42actualmainHTTPrefusalseachpreservedwhole13/audit13;uniformforeign/unknown/withdrawn404beforekey/versiondetails.",
+    "Sourcepublicationarchive14/templatearchive15/adminvisibility16 preservedexactalphaDTO/immutablepublications/terminals. MainreviewA/Bdrafts17–20actualF1reprodidnotpublishwrongB. Aftermatchingpreviewfix,freshBpreviewrequired;explicitnativeEnterpublishedB21 only. Working/historyfix:oldbetaarchive22absentworking,presenthistory;alphafrozenDTO/terminalsexact.",
+    "Privatefaultfixture8→9heldalphaGET/acceptedPOSTuntilbetaentry;oldresponsesignored. Socketresetaftercommit10yieldedHTTP409inbrowser;notclaimedunknownproof. Separateincompletebodyfixture8→9displayedunknownandhidolddata;explicitrereadfoundexactlyoneack,whole/audit9unchangedafterrecovery/logout. Bothownedfixturesfreshlyidentified,consistentlybackedup,stopped;all5tablesunchanged.",
+    "FreshfullUI/source review28current+13historicalstates foundF1previewbinding/F2falsehide/F3directionpersistence. Onebatchfixed;12actual1126/400rawrecapturesopened/hashmatched. VerdictscoresF1/F2/F3resolved,shipatthatscopecombinedwithpreservedfullreview. Detectoronce[]notbroadcleanbill.",
+    "Separatefiveaxiscode/source reviewfoundduplicateimmutable row→requestkeyrestorebinding. RegressionfailedthenSetguardmade41pass. FourisolatedactualHTTPcorruptionsreject400whole/auditunchanged,validrestore200ownDTOexact. Isolatedownershipguardmutationwascaught2/2;notadditionalproducttests.",
+    "Currentvalidatorruntime5884→8500ownedrestart20preservedwhole20/audit20/all5own/58prior. Final22/audit22,4templates/3publications/3dispatches/3terminals/22keys. ConsistentfullSQLitebackupexact;freshprivatefileHTTPemptyrestoreofactualcurrent22returned200,exactalphaDTO,3terminals/1restoredAudit;ephemeralserverclosed."
+  ],
+  "limits": [
+    "Originalboundedrecipientpacket,notSoftrbuilderparity. SyntheticplainRU/KKtextonly,noAI/files/import/externalSQL/API/mail/TG/payment/contracts/realclientdocuments.",
+    "Admin1–8orderedsectionspositions1–20;titles200UTF16/bodies5000,note1–2000aftertrim. Publicationimmutable;onepub+recipientforever;oneackorwithdrawterminal1→2,noreopen/undo/reassign.",
+    "Adminseesall;oneDB/sharedlimits,infrastructure/availability/timingnotfulltenantorganizationisolation/securitycertification. Accountrightsnotindependenthumanidentity;marknotproofreading/understanding/legalack/signature/externaldelivery.",
+    "DedicatedIMMEDIATErecipientobjectCAS ignoresunrelatedglobalrevision;adminCASglobal. FreshcanonicalUUIDglobalkeys,replayrejectnotidempotentsuccess. Source→dispatch→terminalclockguards,nooverallcrossobjectclockguarantee.",
+    "JSONincludesdomain/keyhistorywithoutusers/auth/audit;emptyrestore/currentroles,strictsnapshot/keybindingconsistency. Unsignednotauthenticity/history;maliciousrecomputedtruthnotprevented. FullconsistentSQLitecopyseparate;HTTP2MiB.",
+    "No-store/UIhide doesnoteraseknowledge,copiesorallbrowsermemory. Liveinappsameaccountnoteonly;logout/accountchange/401clears,fullreloadmaylose. Unknownwritecouldhavecommitted;noapplicationautoresend,explicitreadrequired. Browsertransportmayretryconnections;globalkeyguardpreventssecondacceptedwrite.",
+    "Actualdesktop1126/mobile400,ordinaryviewportsectionalJPEGs. No1440/touch/screenreader/fullsecurity/load/publicserveraudit. NativeDevTools/fullpage/mobiledeviceclaimsnotmade.",
+    "No seedroll occurredbeforecode;buildertreatedownerconfirmedcorrespondenceplusownedpaletteaspreciselyspecifiedinheritedextension. Explicitdatedretrospectivecontractrepairsrecordingwithoutfabricatedhistory."
+  ],
+  "runtime": {
+    "pid": 8500,
+    "port": 8859,
+    "script": "work/program/run-qabyl-desk.mjs",
+    "before": "work/program/qabyl-review-restart-before.json",
+    "after": "work/program/qabyl-review-restart-after.json",
+    "earlier_restart": "work/program/qabyl-restart-before.json/after.json at13",
+    "final_revision": 22,
+    "final_proof": "work/program/qabyl-final-runtime.json"
+  },
+  "preservation": {
+    "before": "work/program/qabyl-prior-before.json",
+    "after": "work/program/qabyl-prior-after.json",
+    "previous_servers": 36,
+    "private_databases": 58,
+    "own_tables_before": "work/program/qabyl-review-tables-before.json",
+    "own_tables_after": "work/program/qabyl-review-tables-after.json",
+    "own_table_count": 5,
+    "later_own_tables": "work/program/qabyl-review-restart-before.json/after.json all5equal at20",
+    "sabaqloop_owner_origin": "untouched"
+  },
+  "review": {
+    "status": "ship_full_review_plus_F1_F2_F3_resolved",
+    "file": "docs/finish-review.json",
+    "full_review": "docs/finish-review-full-before-fixes.json",
+    "scope": "FinalverdictscoresonlylistedF1/F2/F3incombinationwithpriorfullUI/source review;notnewfullproduct/securityaudit",
+    "code": "docs/code-review-verdict.json",
+    "detector": "onerun[]only"
+  },
+  "commercial": {
+    "potential_company_matches": 3,
+    "qualified_buyers": 0,
+    "interest_confirmed": 0,
+    "new_sends": 0
+  },
+  "release_note": "QabylDesk: original synthetic RU/KK frozen text publication,recipient-boundserverDTO andoneexplicitmanualaccountnote oradminwithdraw.41automatedtests,actual1126/400Chrome/keyboard/KK/recovery/lateidentity/incompletebodyproof;main22/audit22,ownedrestart20/all5tables/58priorDBspreserved,freshfileemptyrestoreexact. FreshfullUIreview+F1/F2/F3resolvedship,separatecodefixapproved. No realdocuments/signature/fulltenant/publicserver/customer/outreachclaim.",
+  "documentation": {
+    "status": "completed_from_current_source",
+    "files": [
+      "DESIGN.md",
+      ".impeccable/design.json"
+    ],
+    "colors": 16,
+    "static_component_examples": 9,
+    "evidence": "docs/design-documentation.json",
+    "scope": "Read-onlysource/token/staticexamplecorrespondence,notnewproduct/browser/securitytests"
+  }
+}

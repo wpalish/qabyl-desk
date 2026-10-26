@@ -1,0 +1,1 @@
+{"name":"qabyl-desk","version":"0.1.0","private":true,"type":"module","description":"Original synthetic recipient packets with server-filtered reading and one manual account acknowledgement","engines":{"node":">=24.15 <25"},"scripts":{"start":"node start.js","test":"node --test --test-reporter=tap tests/*.test.js"}}

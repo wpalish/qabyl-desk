@@ -1,0 +1,2 @@
+# QabylDesk instructions
+Implement the explicit recipient boundary in PRODUCT.md. Never return raw admin state to operators. Use Node24.15–24.x, native ESM/SQLite and no paid/external services. Run the full product suite after domain/server changes. Synthetic authored text/accounts only. Auth/SQLite/.data/.env/private and real customer data never enter Git or archives. No public completion claim before real HTTP/browser/preservation/review/exactCI/ZIP/index verification.

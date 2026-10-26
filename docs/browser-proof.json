@@ -1,0 +1,2353 @@
+{
+  "at": "2026-10-26T10:26:20.482595+00:00",
+  "method": "OwnerChrome realUI,ordinary raw viewportJPEGs,allopened/hashchecked;actualCSSpre/postnotfilename",
+  "captures": [
+    {
+      "name": "admin-issued-list-desktop",
+      "file": "work/program/qabyl-raw/admin-issued-list-desktop.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1121,
+        "title": "Адресные выдачи",
+        "width": 1121,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1121,
+        "title": "Адресные выдачи",
+        "width": 1121,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1121,
+        "height": 1087
+      },
+      "mime": "image/jpeg",
+      "sha256": "44e235be0b524d7de4eaf9b26347d9d4750cb97e24389058f7319d7b46d021d1",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:45:56.403Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "alpha-open-KK-desktop",
+      "file": "work/program/qabyl-raw/alpha-open-KK-desktop.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1121,
+        "title": "Мои пакеты",
+        "width": 1121,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1121,
+        "title": "Мои пакеты",
+        "width": 1121,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1121,
+        "height": 1087
+      },
+      "mime": "image/jpeg",
+      "sha256": "5351067aa21e5cc18ebcf2c0c45db8efd7693a8e1749da39b813820b1613b367",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:46:48.364Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "alpha-note-preview-keyboard-desktop",
+      "file": "work/program/qabyl-raw/alpha-note-preview-keyboard-desktop.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1121,
+        "title": "Мои пакеты",
+        "width": 1121,
+        "y": 601
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1121,
+        "title": "Мои пакеты",
+        "width": 1121,
+        "y": 601
+      },
+      "pixels": {
+        "width": 1121,
+        "height": 1087
+      },
+      "mime": "image/jpeg",
+      "sha256": "310e270a008ec993b1b4d4fbba2354d1c0ed650c8ead67a07e83e906e0f36df4",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:47:56.985Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "alpha-acknowledged-desktop",
+      "file": "work/program/qabyl-raw/alpha-acknowledged-desktop.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1121,
+        "title": "Мои пакеты",
+        "width": 1121,
+        "y": 347
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1121,
+        "dpr": 2,
+        "height": 1087,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1121,
+        "title": "Мои пакеты",
+        "width": 1121,
+        "y": 347
+      },
+      "pixels": {
+        "width": 1121,
+        "height": 1087
+      },
+      "mime": "image/jpeg",
+      "sha256": "4d892219e85f5b671ea1c53fa0902c6f64767f6fd0d71164760b3fcb0aec511b",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:48:01.840Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "alpha-ack-top-mobile400",
+      "file": "work/program/qabyl-raw/alpha-ack-top-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "7e0c9bf96d3ed49fe9485f31be7f655619cd5b218be5abd6e241ccfc03cb7376",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:48:55.837Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "alpha-RU-selected-top-mobile400",
+      "file": "work/program/qabyl-raw/alpha-RU-selected-top-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "b30ddf0fc8df52898871a136683bc8c2b32fccc0c10b210ddc4493e2405276ea",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:48:55.902Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "alpha-RU-text-mobile400",
+      "file": "work/program/qabyl-raw/alpha-RU-text-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 700
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 700
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "568c006b31c9737a6ebacb7e26314baaeaab37b871f83e2a3b28f4f4793dbd0a",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:49:38.102Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "alpha-ack-note-mobile400",
+      "file": "work/program/qabyl-raw/alpha-ack-note-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1368
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1368
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "68359ea568478443bf67c273300038b7005cdeecc30a602064a1512a4bb2fe9d",
+      "opened": true,
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:49:38.345Z",
+      "sourceStage": "before-UI-copy-focus-batch"
+    },
+    {
+      "name": "current-alpha-ack-top-desktop1126",
+      "file": "work/program/qabyl-raw/current-alpha-ack-top-desktop1126.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 2,
+        "height": 1053,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 2,
+        "height": 1053,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 1053
+      },
+      "mime": "image/jpeg",
+      "sha256": "4dca9b5563b0aa59301b611e7e26ea51896570c3b37e969c1730b14fd44ecadb",
+      "opened": true,
+      "sourceStage": "current-UI-after-copy-focus-batch",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:55:59.104Z",
+      "note": "Fresh tab used normal1126CSS viewport;name corrected from actualpre/postmeasurements before review. Not mobile evidence."
+    },
+    {
+      "name": "current-alpha-ack-top-mobile400",
+      "file": "work/program/qabyl-raw/current-alpha-ack-top-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "98d8749a504644afed8e33b8bea4fc91a0c11b0d55f244869329f9af707e1ce7",
+      "opened": true,
+      "sourceStage": "current-UI-after-copy-focus-batch",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:56:27.986Z"
+    },
+    {
+      "name": "current-alpha-KK-text-mobile400",
+      "file": "work/program/qabyl-raw/current-alpha-KK-text-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1256.5
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1256.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "8bc15094a6a5eb51a5525cf203647418cee997824fe6f431fb939c335fc41fdd",
+      "opened": true,
+      "sourceStage": "current-UI-after-copy-focus-batch",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:56:28.209Z"
+    },
+    {
+      "name": "current-beta-note-preview-mobile400",
+      "file": "work/program/qabyl-raw/current-beta-note-preview-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1375.5
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1375.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "6cc5965f51c2afc9d4f3e5a8e9adbc7b8966717b17166e125c4ec008bb3c7296",
+      "opened": true,
+      "sourceStage": "current-UI-after-copy-focus-batch",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T09:56:59.785Z"
+    },
+    {
+      "name": "current-beta-withdraw-return-mobile400",
+      "file": "work/program/qabyl-raw/current-beta-withdraw-return-mobile400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 206
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 206
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "681f814d6d5f6d4c4fc07080381c2d99edf19eb667420e1ba7fc4b98d6aa0b0f",
+      "opened": true,
+      "sourceStage": "current-UI-after-copy-focus-batch",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:00:36.715Z"
+    },
+    {
+      "name": "final-beta-v4-note-preview400",
+      "file": "work/program/qabyl-raw/final-beta-v4-note-preview400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1375.5
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru",
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1375.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "2d2723ad2cdd50c586907ba9ffda295ac33c65c3e3bdb6720f8aa908b7473861",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:05:07.309Z"
+    },
+    {
+      "name": "final-beta-repeat404-retained400",
+      "file": "work/program/qabyl-raw/final-beta-repeat404-retained400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "388a8142b7064aeb70ad789b5e4be59dc4e923cd3e77d1807858313a753a3884",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:05:32.131Z"
+    },
+    {
+      "name": "final-beta-retained-copy400",
+      "file": "work/program/qabyl-raw/final-beta-retained-copy400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 290.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 290.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "9a0b2423c1500d70f45b652e10a4efc3e5c41ebd44dda1400c697a67dfd72cb2",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:06:04.699Z"
+    },
+    {
+      "name": "restart-beta-retained400",
+      "file": "work/program/qabyl-raw/restart-beta-retained400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "beta · Получатель",
+        "scrollWidth": 400,
+        "title": "Пакет недоступен",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "388a8142b7064aeb70ad789b5e4be59dc4e923cd3e77d1807858313a753a3884",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:12:26.823Z"
+    },
+    {
+      "name": "fault-late-alpha-GET-beta-desktop",
+      "file": "work/program/qabyl-raw/fault-late-alpha-GET-beta-desktop.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 2240,
+        "dpr": 2,
+        "height": 1116,
+        "identity": "qa_beta · Получатель",
+        "scrollWidth": 2240,
+        "title": "Мои пакеты",
+        "width": 2240,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 2240,
+        "dpr": 2,
+        "height": 1116,
+        "identity": "qa_beta · Получатель",
+        "scrollWidth": 2240,
+        "title": "Мои пакеты",
+        "width": 2240,
+        "y": 0
+      },
+      "pixels": {
+        "width": 2240,
+        "height": 1116
+      },
+      "mime": "image/jpeg",
+      "sha256": "5c12aea3611e48d4466bc83a256b16a868c76bdab7a6f9e021f744dfde394751",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-fault-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:14:42.523Z"
+    },
+    {
+      "name": "fault-late-alpha-POST-beta-desktop",
+      "file": "work/program/qabyl-raw/fault-late-alpha-POST-beta-desktop.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 2240,
+        "dpr": 2,
+        "height": 1116,
+        "identity": "qa_beta · Получатель",
+        "scrollWidth": 2240,
+        "title": "Мои пакеты",
+        "width": 2240,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 2240,
+        "dpr": 2,
+        "height": 1116,
+        "identity": "qa_beta · Получатель",
+        "scrollWidth": 2240,
+        "title": "Мои пакеты",
+        "width": 2240,
+        "y": 0
+      },
+      "pixels": {
+        "width": 2240,
+        "height": 1116
+      },
+      "mime": "image/jpeg",
+      "sha256": "5c12aea3611e48d4466bc83a256b16a868c76bdab7a6f9e021f744dfde394751",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-fault-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:15:23.662Z"
+    },
+    {
+      "name": "fault-socket-reset-conflict400",
+      "file": "work/program/qabyl-raw/fault-socket-reset-conflict400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "c5eab1675f5b562c592970eab3bded3f829e4f07f4776d8fd36dd90612535a02",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-fault-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:15:40.431Z",
+      "note": "Socket reset after commit resulted in HTTP409 from a subsequent transport request;this is not unknown-outcome screenshot. Dedicated incomplete-body scenario follows."
+    },
+    {
+      "name": "truncate-committed-unknown400",
+      "file": "work/program/qabyl-raw/truncate-committed-unknown400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Результат записи неизвестен",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Результат записи неизвестен",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "3752fddfeef701034526ba27efb8615da16a6f694401756eb338c8df3111944c",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-truncate-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:17:06.673Z"
+    },
+    {
+      "name": "truncate-recovered-ack-top400",
+      "file": "work/program/qabyl-raw/truncate-recovered-ack-top400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "e42e3c403c13c5e0b4193cceda71c80d3034955351779f5ebc2a6b01b6335f8f",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-truncate-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:17:20.820Z"
+    },
+    {
+      "name": "truncate-recovered-ack-note400",
+      "file": "work/program/qabyl-raw/truncate-recovered-ack-note400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 700
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 700
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "18fd4edd5486c856ec05b9ca444b4f12c832e8a0ae3c07c6da5457b450bd9443",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-truncate-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:17:21.025Z"
+    },
+    {
+      "name": "truncate-recovered-ack-bottom400",
+      "file": "work/program/qabyl-raw/truncate-recovered-ack-bottom400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1093.5
+      },
+      "post": {
+        "authoredLanguages": [
+          "ru"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "qa_alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1093.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "0ec128271a32b554870c3b54ad66bf47238955ffea06cacaec9a6800ad6149e4",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-truncate-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:17:33.428Z"
+    },
+    {
+      "name": "truncate-logout-cleared400",
+      "file": "work/program/qabyl-raw/truncate-logout-cleared400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "Кабинет синтетических пакетов",
+        "scrollWidth": 400,
+        "title": "Адресованные пакеты",
+        "width": 400,
+        "y": 3.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "Кабинет синтетических пакетов",
+        "scrollWidth": 400,
+        "title": "Адресованные пакеты",
+        "width": 400,
+        "y": 3.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "069e403c5504e901adb1b9a6044e69006b963fdad0c220d8073b139c6de972ab",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "current-private-truncate-fixture",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:17:33.884Z"
+    },
+    {
+      "name": "main-beta-logout-cleared400",
+      "file": "work/program/qabyl-raw/main-beta-logout-cleared400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "Кабинет синтетических пакетов",
+        "scrollWidth": 400,
+        "title": "Адресованные пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "Кабинет синтетических пакетов",
+        "scrollWidth": 400,
+        "title": "Адресованные пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "678adf574a92fffc5433c4411e76c3069fc820b2e90c4ef63fc6bb73c3759922",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:18:07.083Z"
+    },
+    {
+      "name": "current-admin-editor-middle400",
+      "file": "work/program/qabyl-raw/current-admin-editor-middle400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 422.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 422.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "028622f6edc999f958848497f54a34ce3258a98b75bcd070126f2608e7e1d621",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:18:07.762Z"
+    },
+    {
+      "name": "current-admin-editor-top1126",
+      "file": "work/program/qabyl-raw/current-admin-editor-top1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "09e38118bd4b82850c7c3811eec2d6eeb6ec88fb10dc9b44254a4e808a99f5cf",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:19:14.718Z"
+    },
+    {
+      "name": "current-admin-section-open1126",
+      "file": "work/program/qabyl-raw/current-admin-section-open1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1628
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1628
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "838bd7e94050e5e21227e73de766a46e77bee362faf60d27dfe48bb520039da2",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:19:15.241Z"
+    },
+    {
+      "name": "current-admin-editor-top400",
+      "file": "work/program/qabyl-raw/current-admin-editor-top400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "2a33c620f584e21d07e676758d758ff348716627eea5c553d756cc0d7c5a9109",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:19:15.297Z"
+    },
+    {
+      "name": "current-admin-section-open400",
+      "file": "work/program/qabyl-raw/current-admin-section-open400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 700
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 700
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "5c386bc6f353bc08a07ef5abe04aca6aacd8ca6956cde4a72d1aa23ac15229ce",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:19:15.533Z"
+    },
+    {
+      "name": "current-admin-section-fields400",
+      "file": "work/program/qabyl-raw/current-admin-section-fields400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 1400
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 1400
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "20c6054fffc1fd9e1419356bc1efdb40d45be606332f9f38eef5f3601244c790",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:19:29.300Z"
+    },
+    {
+      "name": "current-publications1126",
+      "file": "work/program/qabyl-raw/current-publications1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Опубликованные версии",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Опубликованные версии",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "4b0f7323e8779541c78a4d147202d56dee311de52d8afa95abb752323b5c7106",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:19:43.608Z"
+    },
+    {
+      "name": "current-admin-terminal-archived1126",
+      "file": "work/program/qabyl-raw/current-admin-terminal-archived1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Адресные выдачи",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Адресные выдачи",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "711827f67030c14d2d445c7206ad26816ec558a30e6e745ff797d17be2c2b293",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:06.412Z"
+    },
+    {
+      "name": "current-admin-terminal-top400",
+      "file": "work/program/qabyl-raw/current-admin-terminal-top400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "e8d6c0184ba40dcbcbdf2fc120b6e866f7c6e12efb57803769195df00d6bb19c",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:06.565Z"
+    },
+    {
+      "name": "current-access-top400",
+      "file": "work/program/qabyl-raw/current-access-top400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Данные и доступ",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Данные и доступ",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "aced66df6b94ca2bcecd0cf59cdb1e35c9ae14d1eafca48abbfbc6be0f192bf8",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:06.909Z"
+    },
+    {
+      "name": "current-alpha-after-archives1126",
+      "file": "work/program/qabyl-raw/current-alpha-after-archives1126.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "ed11cc983421ddb1d62d50647fc26c600f55c1ced526f2cf067b7ad953f5acb0",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:24.547Z"
+    },
+    {
+      "name": "current-alpha-frozen-KK-bottom1126",
+      "file": "work/program/qabyl-raw/current-alpha-frozen-KK-bottom1126.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 451
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 451
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "8113fa43321deb211690d7c0471a5725e0e0180a97b98e54343a66dfc0a4988c",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:24.776Z"
+    },
+    {
+      "name": "current-alpha-after-archives-top400",
+      "file": "work/program/qabyl-raw/current-alpha-after-archives-top400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "96122bd7191c0b5c2bcf249632ccea7beed8b7314fca58c7e14b8f7ec1228544",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:24.852Z"
+    },
+    {
+      "name": "current-alpha-frozen-KK-middle400",
+      "file": "work/program/qabyl-raw/current-alpha-frozen-KK-middle400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 704.5
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 704.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "de7eb9acf32765bf8de12bfa258ae0ed116d4abcdaa630dc1e825c1cbf8345ee",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:25.076Z"
+    },
+    {
+      "name": "current-alpha-frozen-KK-bottom400",
+      "file": "work/program/qabyl-raw/current-alpha-frozen-KK-bottom400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1256.5
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1256.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "b5a2e78bbd692b39a744e880cb1a446f10f1390d168409f19d6106bbc925b6a2",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:20:25.278Z"
+    },
+    {
+      "name": "review-F1-reproduced-A-preview-on-B1126",
+      "file": "work/program/qabyl-raw/review-F1-reproduced-A-preview-on-B1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1684.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1684.5
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "cb96319c94516febb393b94119ac7575ecfc963e478580023688e865db634db9",
+      "source_hashes": {
+        "public/app.js": "4d7e08a896f95cd3e3755192bbe25810de3d356430f29d01602b76703e73ac6e",
+        "public/client.js": "c8f742e5bbbe264365ca320ecaf6198f36bb81fe988d22208ffb998fff36dbb6",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-repeat404-controller-fix",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:29:01.534Z"
+    },
+    {
+      "name": "fix-F1-B-clears-A1126",
+      "file": "work/program/qabyl-raw/fix-F1-B-clears-A1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1043.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1043.5
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "f121057fa1591d75836333e5cf9b5575dd80c3ed49d95a2f1091ed9363ad12df",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:31:53.350Z"
+    },
+    {
+      "name": "fix-F1-B-clears-A400",
+      "file": "work/program/qabyl-raw/fix-F1-B-clears-A400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 1553.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 1553.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "50252ba35224989a59fb6a2d6682388d51f000946b1a2b3d53811191c0cc8de4",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:31:53.480Z"
+    },
+    {
+      "name": "fix-F1-fresh-B-preview400",
+      "file": "work/program/qabyl-raw/fix-F1-fresh-B-preview400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 1553.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Черновики пакетов",
+        "width": 400,
+        "y": 1553.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "0328809dd1fe626017a29ed19df29ae030594ac968df0a0b3777ada9c8a0b387",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:31:53.860Z"
+    },
+    {
+      "name": "fix-F1-B-snapshot1126",
+      "file": "work/program/qabyl-raw/fix-F1-B-snapshot1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1684.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Черновики пакетов",
+        "width": 1126,
+        "y": 1684.5
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "10bdd7ee93cd6ad12190f702fc24b6b7c077e557de7500463b1f184563c0ef40",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:09.468Z"
+    },
+    {
+      "name": "fix-F2-working-excludes-archives1126",
+      "file": "work/program/qabyl-raw/fix-F2-working-excludes-archives1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Адресные выдачи",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Адресные выдачи",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "654125eb9fdbcd45dace4f6281c71a337c4e0432630e7be974620cfdcbe6535e",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:10.558Z"
+    },
+    {
+      "name": "fix-F2-working-excludes-archives400",
+      "file": "work/program/qabyl-raw/fix-F2-working-excludes-archives400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "31f3df59bb67f1c1390fceaedec5c6188351590bbde8d5d71e9ed27eac58375e",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:10.598Z"
+    },
+    {
+      "name": "fix-F2-history-list400",
+      "file": "work/program/qabyl-raw/fix-F2-history-list400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 272
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 272
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "8cd4d91a2ba37d208f80b05595509a8051531dd0888e69cc9005fc748838b8f8",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:10.953Z"
+    },
+    {
+      "name": "fix-F2-working-list400",
+      "file": "work/program/qabyl-raw/fix-F2-working-list400.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 217.5
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 400,
+        "title": "Адресные выдачи",
+        "width": 400,
+        "y": 217.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "67630073a6aa8411558023bc7f498c35ef71f00880a991c7931fc809bb73a8bc",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:31.491Z"
+    },
+    {
+      "name": "fix-F2-history-with-alpha1126",
+      "file": "work/program/qabyl-raw/fix-F2-history-with-alpha1126.jpg",
+      "pre": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Адресные выдачи",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "coordinator · Администратор",
+        "scrollWidth": 1126,
+        "title": "Адресные выдачи",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "c6187f67ef7a49877e45dbeb2fd4d77cefc1750536f7886a50aa06092ba7ddd6",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:32.219Z"
+    },
+    {
+      "name": "fix-recipient-still-frozen1126",
+      "file": "work/program/qabyl-raw/fix-recipient-still-frozen1126.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 1126,
+        "dpr": 1,
+        "height": 900,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 1126,
+        "title": "Мои пакеты",
+        "width": 1126,
+        "y": 0
+      },
+      "pixels": {
+        "width": 1126,
+        "height": 900
+      },
+      "mime": "image/jpeg",
+      "sha256": "5ff492a6e3b982d71d62f02051b30dc095cbf78ef6ecf669a16d146d32cce84c",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:33.293Z"
+    },
+    {
+      "name": "fix-recipient-still-frozen-top400",
+      "file": "work/program/qabyl-raw/fix-recipient-still-frozen-top400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 0
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "98d8749a504644afed8e33b8bea4fc91a0c11b0d55f244869329f9af707e1ce7",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:44.680Z"
+    },
+    {
+      "name": "fix-recipient-still-frozen-bottom400",
+      "file": "work/program/qabyl-raw/fix-recipient-still-frozen-bottom400.jpg",
+      "pre": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1256.5
+      },
+      "post": {
+        "authoredLanguages": [
+          "kk",
+          "kk"
+        ],
+        "client": 400,
+        "dpr": 1,
+        "height": 700,
+        "identity": "alpha · Получатель",
+        "scrollWidth": 400,
+        "title": "Мои пакеты",
+        "width": 400,
+        "y": 1256.5
+      },
+      "pixels": {
+        "width": 400,
+        "height": 700
+      },
+      "mime": "image/jpeg",
+      "sha256": "8bc15094a6a5eb51a5525cf203647418cee997824fe6f431fb939c335fc41fdd",
+      "source_hashes": {
+        "public/app.js": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0",
+        "public/client.js": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+        "public/index.html": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff",
+        "public/styles.css": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+      },
+      "opened": true,
+      "sourceStage": "post-review-F1-F2",
+      "method": "ordinary viewport screenshot,notfullPage",
+      "at": "2026-10-26T10:32:44.939Z"
+    }
+  ],
+  "workflow": [
+    "main1–6 authoredpublishv3/alphaKK/betaRU;adminunrelated7 leaves ownDTO unchanged;nativeTab/Enter alphaack8",
+    "betaunsavednote→aboutblank/adminwithdraw9→back revalidated;repeatrefresh uncoveredcopybug,regressionredthenfix",
+    "newmeaningfultitle10/pubv411/betaissue12/withdraw13 provedrepeatrefresh retains exactownnote,oldv3histories unchanged",
+    "ownedmainrestart13 preserveswhole/audit/all5tables and58priorDBs;inapprefresh retainednote",
+    "42actualHTTPdenials at13 eachleave wholeworkspace/audit exact;servedfourfilesexact/no-store",
+    "archivepublication14/template15/adminvisibility16 preserve exactalphaDTO/publishedcontents/terminals",
+    "privatefaultfixture8→9delayedalphaPOST/GET afterbeta ignored;socketresetcommitted10 thenHTTP409observed,not claimedunknown",
+    "separateprivateincompletebodyfixture8→9committedonce,unknownUI hidesdata,explicitrefresh findsoneack,whole/audit9unchangedafterread/logout",
+    "reviewdrafts17–20;Apreview→B actualmismatchreproducedwithoutwrite;afterfixA→B clearsoldpreview/action;freshBnativeEnterpublish21;betaoldterminalarchive22workinghidden/historyretained,alphaDTOexact"
+  ],
+  "limits": [
+    "No fullPage or touch/screenreader/1440/fullsecurityclaim. Scrolled JPEGs are sectional.",
+    "aboutblank/back proves observedaccessrevalidation,not universal bfcache/cacheeviction;no-store does not erase knowledge/copies",
+    "Synthetic fixtures containno realdata. Proxyfaults are outside product source. Controllerunitfaults and realbrowserfaults reportedseparately.",
+    "Fixture proxies shared localhost cookiehostname;secondfixture intentionally replaced firstfixtureQA login after firstworkflow ended. Main127origin remained separate. No per-portcookieisolationclaim."
+  ],
+  "current_final_source_stage": "post-review-F1-F2",
+  "review_fix_packet": "work/program/qabyl-fix-verdict-packet.json"
+}

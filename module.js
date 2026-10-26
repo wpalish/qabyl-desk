@@ -1,0 +1,3 @@
+export const definition=Object.freeze({slug:'qabyl-desk',title:'QabylDesk',version:'0.1.0',reference:20,scope:'Опубликованный RU/KK пакет → адресная выдача → одна ручная отметка аккаунта. Только синтетические тексты;не доказательство чтения или электронная подпись.',limits:['Серверная фильтрация собственных выдач;администратор видит всё.','Без внешней отправки,файлов,AI,реальных документов и платежей.','Одна локальная база;не полная tenant-изоляция.']});
+// Catalogue descriptor;the public config above keeps its existing explicit fields.
+export default Object.freeze({...definition,description:definition.scope,limitations:definition.limits.join(' ')});

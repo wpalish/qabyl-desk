@@ -1,0 +1,9 @@
+.data/
+.env*
+*.sqlite*
+*.db*
+node_modules/
+.superpowers/
+.impeccable/review/
+private/
+work/

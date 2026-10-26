@@ -1,0 +1,256 @@
+TAP version 13
+# Subtest: same-account refresh retains unsaved note;withdraw hides content and retains only separate note copy
+ok 1 - same-account refresh retains unsaved note;withdraw hides content and retains only separate note copy
+  ---
+  duration_ms: 2.577292
+  type: 'test'
+  ...
+# Subtest: late alpha GET after logout/login beta cannot repopulate beta view or old note
+ok 2 - late alpha GET after logout/login beta cannot repopulate beta view or old note
+  ---
+  duration_ms: 1.08025
+  type: 'test'
+  ...
+# Subtest: suspend immediately clears rendered data and return revalidates session and withdrawn access without autoack
+ok 3 - suspend immediately clears rendered data and return revalidates session and withdrawn access without autoack
+  ---
+  duration_ms: 0.371958
+  type: 'test'
+  ...
+# Subtest: lost acknowledgement response means unknown outcome,no automaticretry;explicit scoped reread finds one terminalresult
+ok 4 - lost acknowledgement response means unknown outcome,no automaticretry;explicit scoped reread finds one terminalresult
+  ---
+  duration_ms: 2.559667
+  type: 'test'
+  ...
+# Subtest: changed session or401 clears old identity note/content rather than preserving a cross-account draft
+ok 5 - changed session or401 clears old identity note/content rather than preserving a cross-account draft
+  ---
+  duration_ms: 0.17975
+  type: 'test'
+  ...
+# Subtest: late committed alpha POST response is ignored after beta login and no old content appears
+ok 6 - late committed alpha POST response is ignored after beta login and no old content appears
+  ---
+  duration_ms: 0.142167
+  type: 'test'
+  ...
+# Subtest: late admin command response cannot restore admin data after login to recipient
+ok 7 - late admin command response cannot restore admin data after login to recipient
+  ---
+  duration_ms: 0.396875
+  type: 'test'
+  ...
+# Subtest: repeated same-account404 refresh preserves the already separated unsaved note until logout or identity change
+ok 8 - repeated same-account404 refresh preserves the already separated unsaved note until logout or identity change
+  ---
+  duration_ms: 0.15175
+  type: 'test'
+  ...
+# Subtest: publication preview applies only to the exact template content version and workspace revision
+ok 9 - publication preview applies only to the exact template content version and workspace revision
+  ---
+  duration_ms: 0.112958
+  type: 'test'
+  ...
+# Subtest: admin working list excludes archived issues and explicit history retains every immutable row
+ok 10 - admin working list excludes archived issues and explicit history retains every immutable row
+  ---
+  duration_ms: 0.1085
+  type: 'test'
+  ...
+# Subtest: admin preview remembers immutable request context and selection invalidation rejects an already pending reply
+ok 11 - admin preview remembers immutable request context and selection invalidation rejects an already pending reply
+  ---
+  duration_ms: 0.172459
+  type: 'test'
+  ...
+# Subtest: every operator route is scoped or refused independently; anonymous and static routes contain no domain rows
+ok 12 - every operator route is scoped or refused independently; anonymous and static routes contain no domain rows
+  ---
+  duration_ms: 267.439875
+  type: 'test'
+  ...
+# Subtest: foreign unknown and withdrawn GET/preview/ack return identical404 even with reused key and wrong version
+ok 13 - foreign unknown and withdrawn GET/preview/ack return identical404 even with reused key and wrong version
+  ---
+  duration_ms: 205.200334
+  type: 'test'
+  ...
+# Subtest: successful ack POST returns same recursive projection as GET and unrelated admin edit does not stale object
+ok 14 - successful ack POST returns same recursive projection as GET and unrelated admin edit does not stale object
+  ---
+  duration_ms: 195.842791
+  type: 'test'
+  ...
+# Subtest: strict raw JSON rejects escaped duplicate keys and bad types without confusing literal JSON-looking note
+ok 15 - strict raw JSON rejects escaped duplicate keys and bad types without confusing literal JSON-looking note
+  ---
+  duration_ms: 197.064208
+  type: 'test'
+  ...
+# Subtest: API paths queryselectors conditionals methodvariants and HEAD cannot bypass filtering or cache across accounts
+ok 16 - API paths queryselectors conditionals methodvariants and HEAD cannot bypass filtering or cache across accounts
+  ---
+  duration_ms: 199.812833
+  type: 'test'
+  ...
+# Subtest: real session cookie csrf origin host payload limit and generic credential errors protect every mutation
+ok 17 - real session cookie csrf origin host payload limit and generic credential errors protect every mutation
+  ---
+  duration_ms: 266.216292
+  type: 'test'
+  ...
+# Subtest: logout invalidates actual cookie and HTTP restore requires current roles before accepting backup
+ok 18 - logout invalidates actual cookie and HTTP restore requires current roles before accepting backup
+  ---
+  duration_ms: 271.951417
+  type: 'test'
+  ...
+# Subtest: admin preview is read-only, stale admin command is atomic, admin cannot mark and fresh current-role session never retains operator rights
+ok 19 - admin preview is read-only, stale admin command is atomic, admin cannot mark and fresh current-role session never retains operator rights
+  ---
+  duration_ms: 194.29025
+  type: 'test'
+  ...
+# Subtest: empty HTTP restore succeeds only with all referenced current accounts and excludes users auth audit from JSON
+ok 20 - empty HTTP restore succeeds only with all referenced current accounts and excludes users auth audit from JSON
+  ---
+  duration_ms: 304.698917
+  type: 'test'
+  ...
+# Subtest: new store has empty domain and no phantom publication or recipient packet
+ok 21 - new store has empty domain and no phantom publication or recipient packet
+  ---
+  duration_ms: 4.898334
+  type: 'test'
+  ...
+# Subtest: publication requires complete bilingual sections and freezes exact ordered content
+ok 22 - publication requires complete bilingual sections and freezes exact ordered content
+  ---
+  duration_ms: 9.513875
+  type: 'test'
+  ...
+# Subtest: meaningful draft edit advances version but no-op does not consume key or audit
+ok 23 - meaningful draft edit advances version but no-op does not consume key or audit
+  ---
+  duration_ms: 1.91975
+  type: 'test'
+  ...
+# Subtest: canonical field types, UTF16 bounds, active section count and distinct order enforced
+ok 24 - canonical field types, UTF16 bounds, active section count and distinct order enforced
+  ---
+  duration_ms: 14.999125
+  type: 'test'
+  ...
+# Subtest: published version cannot be published twice even after archive; section archive increments draft
+ok 25 - published version cannot be published twice even after archive; section archive increments draft
+  ---
+  duration_ms: 1.356834
+  type: 'test'
+  ...
+# Subtest: dispatch requires current operator, rejects self/admin/absent and is permanently unique per publication recipient
+ok 26 - dispatch requires current operator, rejects self/admin/absent and is permanently unique per publication recipient
+  ---
+  duration_ms: 1.88625
+  type: 'test'
+  ...
+# Subtest: recipient DTO recursively contains only owned packet fields and never master metadata
+ok 27 - recipient DTO recursively contains only owned packet fields and never master metadata
+  ---
+  duration_ms: 0.879625
+  type: 'test'
+  ...
+# Subtest: known foreign, unknown and withdrawn target have same404 before version and global-key checks
+ok 28 - known foreign, unknown and withdrawn target have same404 before version and global-key checks
+  ---
+  duration_ms: 1.935875
+  type: 'test'
+  ...
+# Subtest: only bound current operator can acknowledge and no client author/content fields accepted
+ok 29 - only bound current operator can acknowledge and no client author/content fields accepted
+  ---
+  duration_ms: 1.16875
+  type: 'test'
+  ...
+# Subtest: explicit acknowledgement freezes note and returns the exact GET projection once
+ok 30 - explicit acknowledgement freezes note and returns the exact GET projection once
+  ---
+  duration_ms: 0.93575
+  type: 'test'
+  ...
+# Subtest: objectCAS ignores unrelated global revision; stale own version and reused key preserve all state/audit
+ok 31 - objectCAS ignores unrelated global revision; stale own version and reused key preserve all state/audit
+  ---
+  duration_ms: 0.800833
+  type: 'test'
+  ...
+# Subtest: archive closes new dispatches but old frozen packet and acknowledged history remain available
+ok 32 - archive closes new dispatches but old frozen packet and acknowledged history remain available
+  ---
+  duration_ms: 0.922209
+  type: 'test'
+  ...
+# Subtest: source dispatch and terminal clock rollback fail without mutation; reads and preview never write
+ok 33 - source dispatch and terminal clock rollback fail without mutation; reads and preview never write
+  ---
+  duration_ms: 0.874542
+  type: 'test'
+  ...
+# Subtest: strict acknowledgement envelope rejects coercion uppercase IDs missing/unknown keys and oversized note
+ok 34 - strict acknowledgement envelope rejects coercion uppercase IDs missing/unknown keys and oversized note
+  ---
+  duration_ms: 2.158458
+  type: 'test'
+  ...
+# Subtest: two SQLite connections resolve ack versus withdraw to one terminal transition
+ok 35 - two SQLite connections resolve ack versus withdraw to one terminal transition
+  ---
+  duration_ms: 5.89975
+  type: 'test'
+  ...
+# Subtest: global key collision across two different dispatches commits only one; withdrawn cannot be acknowledged
+ok 36 - global key collision across two different dispatches commits only one; withdrawn cannot be acknowledged
+  ---
+  duration_ms: 1.53475
+  type: 'test'
+  ...
+# Subtest: JSON backup empty restore preserves recipient access and rejects corrupt copies atomically
+ok 37 - JSON backup empty restore preserves recipient access and rejects corrupt copies atomically
+  ---
+  duration_ms: 4.180917
+  type: 'test'
+  ...
+# Subtest: consistent full SQLite file backup and restart preserve domain audit all5tables and scoped reads
+ok 38 - consistent full SQLite file backup and restart preserve domain audit all5tables and scoped reads
+  ---
+  duration_ms: 7.904209
+  type: 'test'
+  ...
+# Subtest: restore binds immutable rows to exact original request-key actor/time and rejects missing typed lists
+ok 39 - restore binds immutable rows to exact original request-key actor/time and rejects missing typed lists
+  ---
+  duration_ms: 2.532458
+  type: 'test'
+  ...
+# Subtest: two independent SQLite connections share global keys across otherwise unrelated recipient objectCAS writes
+ok 40 - two independent SQLite connections share global keys across otherwise unrelated recipient objectCAS writes
+  ---
+  duration_ms: 4.943
+  type: 'test'
+  ...
+# Subtest: restore rejects one request-key reused by two immutable rows even with matching action actor and timestamp
+ok 41 - restore rejects one request-key reused by two immutable rows even with matching action actor and timestamp
+  ---
+  duration_ms: 2.625583
+  type: 'test'
+  ...
+1..41
+# tests 41
+# suites 0
+# pass 41
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 2199.963666

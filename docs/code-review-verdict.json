@@ -1,0 +1,187 @@
+{
+  "product": "QabylDesk",
+  "generated_at": "2026-10-26T10:32:53.924170+00:00",
+  "verdict": "approve",
+  "scope": "Backend/controller original candidate five-axis review plus scoped verification of required restore fix. Changed UI helpers/controller preview/archive bindings are handled by the independent UI reviewer. This is source/isolated fixture approval for the local synthetic contract, not broad security, publication or running-server certification.",
+  "original_report": [
+    "work/program/qabyl-code-review.json",
+    "work/program/qabyl-code-review.md"
+  ],
+  "required_finding": {
+    "id": "QABYL-CR-01",
+    "status": "resolved",
+    "fix": "core/domain.js:78-79 maintains one boundKeys Set across all immutable row bindings, rejecting a second key claim after exact action/actor/time verification. Legitimate mutable-command history entries remain accepted.",
+    "fixed_domain_sha256": "0c895102d4b5c5d35eddda1d38390cbbe7049aadbc873a61a71e526cd7d59d0e"
+  },
+  "axes": {
+    "correctness": "approve within reviewed scope; reproduced integrity defect now rejects and valid restore still succeeds",
+    "readability": "approve; minimal canonical helper change",
+    "architecture": "approve; shared validator enforces invariant once for all immutable row families",
+    "security": "approve within declared local synthetic scope; imported-state integrity finding resolved, no broad security certification",
+    "performance": "approve within declared limits; Set membership adds bounded linear auxiliary storage and avoids duplicate bindings without extra database paths"
+  },
+  "baseline": {
+    "log": "work/program/qabyl-review-41green.txt",
+    "passed": 41,
+    "failed": 0,
+    "store": 21,
+    "HTTP": 9,
+    "controller": 11,
+    "log_mtime": 1793010642.5541406,
+    "newer_than_current_reviewed_source_and_tests": true,
+    "full_suite_rerun_by_this_reviewer": false
+  },
+  "targeted_test": {
+    "runtime": "Node v24.19.0",
+    "fixture": "work/program/fixtures/qabyl-code-review-fix",
+    "test": "restore rejects one request-key reused by two immutable rows even with matching action actor and timestamp",
+    "command": "node --test --test-reporter=tap --test-name-pattern=\"restore rejects one request-key reused\" tests/store.test.js",
+    "exit": 0,
+    "passed": 1,
+    "failed": 0,
+    "covered_row_families": [
+      "templates",
+      "publications",
+      "dispatches",
+      "terminals"
+    ],
+    "valid_backup_also_checked": true
+  },
+  "actual_HTTP_refusals": [
+    {
+      "duplicated_binding_family": "templates",
+      "http_status": 400,
+      "error_code": "BAD_REQUEST",
+      "cache_control": "no-store",
+      "whole_workspace_before_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "whole_workspace_after_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "audit_before_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "audit_after_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "workspace_and_audit_unchanged": true
+    },
+    {
+      "duplicated_binding_family": "publications",
+      "http_status": 400,
+      "error_code": "BAD_REQUEST",
+      "cache_control": "no-store",
+      "whole_workspace_before_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "whole_workspace_after_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "audit_before_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "audit_after_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "workspace_and_audit_unchanged": true
+    },
+    {
+      "duplicated_binding_family": "dispatches",
+      "http_status": 400,
+      "error_code": "BAD_REQUEST",
+      "cache_control": "no-store",
+      "whole_workspace_before_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "whole_workspace_after_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "audit_before_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "audit_after_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "workspace_and_audit_unchanged": true
+    },
+    {
+      "duplicated_binding_family": "terminals",
+      "http_status": 400,
+      "error_code": "BAD_REQUEST",
+      "cache_control": "no-store",
+      "whole_workspace_before_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "whole_workspace_after_sha256": "485905fefec74f835ecf711eab863f3e74b2f23716f193e89b61b30bc232bf59",
+      "audit_before_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "audit_after_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "workspace_and_audit_unchanged": true
+    }
+  ],
+  "actual_HTTP_valid_restore": {
+    "status": 200,
+    "revision": 1,
+    "templates": 2,
+    "publications": 2,
+    "dispatches": 2,
+    "acknowledged_terminals": 2,
+    "original_domain_arrays_exact": true,
+    "original_key_history_preserved": true,
+    "additional_restore_key": 1,
+    "audit_rows": 1,
+    "subsequent_recipient_state_HTTP": 200,
+    "recipient_recursive_DTO_equals_source": true
+  },
+  "mutation_reference": {
+    "original_report": "work/program/qabyl-code-review.json",
+    "ownership_guard_mutation_caught": true,
+    "restored_fixture_control_passed": true,
+    "rerun": false,
+    "new_product_test_count": 0
+  },
+  "test_count_note": "One existing newly added store regression was rerun once in isolation; four bad-restore and one good-restore HTTP probes are review experiments, not new product tests. Full baseline remains the parent-authored 41/41 log.",
+  "manifest": [
+    {
+      "path": "core/domain.js",
+      "sha256": "0c895102d4b5c5d35eddda1d38390cbbe7049aadbc873a61a71e526cd7d59d0e",
+      "current_source_matches": true,
+      "source_mtime": 1793010640.2750661
+    },
+    {
+      "path": "core/errors.js",
+      "sha256": "750fc1cb4f46f556dc5282d099a7a7a75b98b9910a159f23c532fea2dfae1ece",
+      "current_source_matches": true,
+      "source_mtime": 1793006094.5642648
+    },
+    {
+      "path": "core/json.js",
+      "sha256": "0f319046beaecd4a94cd8137c24271d6bd0af2430a2269ad1eb6a38d96e0750c",
+      "current_source_matches": true,
+      "source_mtime": 1793006571.1628854
+    },
+    {
+      "path": "core/server.js",
+      "sha256": "cc99d83a957f807b969a05924684e458487132bf71ab902903aaf79dcbb2e7dc",
+      "current_source_matches": true,
+      "source_mtime": 1793006571.1675885
+    },
+    {
+      "path": "core/store.js",
+      "sha256": "d4a6fe420b76a0e4ac8452bd373092fbae93dedcf88d66b35b3da0fdafd40975",
+      "current_source_matches": true,
+      "source_mtime": 1793006458.0553663
+    },
+    {
+      "path": "module.js",
+      "sha256": "5ec1d789ce04882058ad70eb49055e5ffcf8ab9965901cfc7a2d11eec03e080c",
+      "current_source_matches": true,
+      "source_mtime": 1793006571.164732
+    },
+    {
+      "path": "package.json",
+      "sha256": "d6870fc109612a23ebe721c47879d271076b5df18dcae1a88e60bacd9ed027b5",
+      "current_source_matches": true,
+      "source_mtime": 1793006059.9243486
+    },
+    {
+      "path": "public/client.js",
+      "sha256": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2",
+      "current_source_matches": true,
+      "source_mtime": 1793010640.2752488
+    },
+    {
+      "path": "tests/client.test.js",
+      "sha256": "2f0abf68b28e8fcda907e642422ff0c152b0d5da5e12f9999ac6251da58f60c8",
+      "current_source_matches": true,
+      "source_mtime": 1793010610.4936419
+    },
+    {
+      "path": "tests/http.test.js",
+      "sha256": "3d7e5728bda6461945333879a280caa77ddc952e96eed990afab670f366f6d4a",
+      "current_source_matches": true,
+      "source_mtime": 1793006750.7018652
+    },
+    {
+      "path": "tests/store.test.js",
+      "sha256": "46b9bd6682f41ab81d387313da9156cdc06c34f1fc6c7671cb518060f80662d5",
+      "current_source_matches": true,
+      "source_mtime": 1793010499.9393308
+    }
+  ],
+  "preservation": "No live product file/runtime/database/auth/captures/public repository edited. Only a new source/test-only fixture and these separate verdict files were written; original request_changes reports and original mutation fixture retained. The existing main runtime was not restarted or certified by this reviewer."
+}

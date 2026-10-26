@@ -1,0 +1,5 @@
+# Initial UI inspection,not finishreview
+
+Real ownerChrome desktop1121 and400CSS/mobileDPR1. Original correspondence composition is present:listleft/readableletterright,stackedmobile. AlphaKKpackage opened,manualnote+preview,actualTabfromnote→preview→save,Enterack afterseparateadmin unrelatedrevision6→7. Ack8,contentversion3/dispatchversion2. Literal<b>text</b> displayed asplain text,zero b elements inside authoredbody. No horizontal documentoverflow400. These captured files precede the following UI-only batch;they do not prove the latercopy/focus changes.
+
+One batch fixes observed cramped staticcopy punctuation/units,missing defaultselectlanguage,helper associations and focus disappearing whenrootrerendered. Staticauthoredcopy only;storedpackettextnotnormalized. StableperviewcontrolIDs and alert/statusfocus,newuserpasswordautocomplete. Sourcebeforehasheswork/program/qabyl-before-ui-fix-sources.json. No domain/server/CSS/controllerchange,no newack oroldmutation replay. Freshcurrentcaptures required after reload. Detector not run yet.

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T10:40:20.249161+00:00",
+  "mode": "scan",
+  "result": "source-correspondence-checked",
+  "scope": "Design documentation from current QabylDesk source only. No browser session, viewport rendering, product tests, detector, touch or screen-reader run was performed by this documentation pass.",
+  "direction": {
+    "source": ".impeccable/briefs/cabinet.md",
+    "ownerChoice": "Кабинет как деловая переписка",
+    "authority": "Inherited owned native-cabinet palette and controls, extended by QabylDesk own index/article and working/history views. No inherited Sapa review verdict is claimed.",
+    "historyLimit": "Direction contract is explicitly retrospective; no seed roll, seed reference or decision comp was created or inferred."
+  },
+  "sources": [
+    {
+      "path": "PRODUCT.md",
+      "sha256": "bc5bf8c09541aa8381fe9e5029262409d315291f9e60537076367e9d92ea3d8b"
+    },
+    {
+      "path": ".impeccable/briefs/cabinet.md",
+      "sha256": "b2632c8cecda5e7d6f3cb3fde1d9a6b73c9e718f6d054f8daed2a1b28b37a119"
+    },
+    {
+      "path": "public/styles.css",
+      "sha256": "5d32f39cd60bffb3538629b7b899149805f73a97adae9e3ba358802e4f3f88f6"
+    },
+    {
+      "path": "public/app.js",
+      "sha256": "bdc934a4b63752c7f44ea7323b881aa45745c00cdbfe75c3552d3aa397b0bcf0"
+    },
+    {
+      "path": "public/client.js",
+      "sha256": "b170ad6cefbe15fb81efe9542ab74aa8301f62bd0519832a81227906f49251e2"
+    },
+    {
+      "path": "public/index.html",
+      "sha256": "d311cdde3ef9d20a72de68e82a2b0a9981eaa87c80fc802d578528e8f0b7aeff"
+    },
+    {
+      "path": "docs/finish-review.json",
+      "sha256": "d40ca1ed1e779f4c7802108861e5905be8dc826e2e744cbba73ec6a83419d4e7"
+    },
+    {
+      "path": "docs/finish-review-full-before-fixes.json",
+      "sha256": "44fcdbab8c5b5cac00be6cc8aff3375e17143bcd39461a14f9d1a24bd76ff0b2"
+    }
+  ],
+  "written": [
+    "DESIGN.md",
+    ".impeccable/design.json",
+    "docs/design-documentation.json"
+  ],
+  "checks": {
+    "cssCustomPropertyColors": 16,
+    "frontmatterColorValuesMatchSource": true,
+    "canonicalSectionOrder": true,
+    "frontmatter": "PyYAML parse, allowed frontmatter groups/component props, and all token references passed.",
+    "sidecarSchemaVersion": 2,
+    "previewComponents": 9,
+    "staticPreviewClassesPrefixedDs": true,
+    "runtimeOrExternalAssetRequiredBySnippets": false,
+    "sidecarReferencesResolve": true,
+    "previewRampStepsPerColor": 8,
+    "tonalRamps": "Synthesized OKLCH preview metadata at fixed lightness steps; not authored CSS colors or runtime tokens.",
+    "nativeDefaults": "Heading weight 700, native small size and pre monospace are described as browser defaults; no computed-style sampling was performed."
+  },
+  "componentCorrespondence": [
+    {
+      "component": "Primary/secondary buttons",
+      "source": "public/styles.css button, button.primary, hover, disabled and shared focus rules; public/app.js button/adminForm/recipient"
+    },
+    {
+      "component": "Labeled input/textarea",
+      "source": "public/styles.css input/select/textarea/label/helper; public/app.js field"
+    },
+    {
+      "component": "Cabinet navigation",
+      "source": "public/styles.css .bar rules; public/app.js header and dispatches working/history buttons"
+    },
+    {
+      "component": "Packet index",
+      "source": "public/styles.css .packet-index/.packet-link; public/app.js recipient/dispatches"
+    },
+    {
+      "component": "Letter and metadata",
+      "source": "public/styles.css .letter/.letter-meta/.statement/.body-text; public/app.js recipient/dispatches"
+    },
+    {
+      "component": "Status/error messages",
+      "source": "public/styles.css .notice/.error; public/app.js render"
+    },
+    {
+      "component": "Native snapshot disclosure",
+      "source": "public/styles.css details/summary/pre; public/app.js snapshot"
+    }
+  ],
+  "defectsNotCanonized": "None identified in the source correspondence scope. Functional findings F1/F2 and direction finding F3 are handled by the separate finish-review record; this report does not re-test or expand that verdict. No broader accessibility/security or 1440px/touch/screen-reader claim.",
+  "artifacts": {
+    "DESIGN.md": "c50c9a316f29cbca4468bd43a23640a3440b4232b11310a3e0b244365b0ccbdd",
+    ".impeccable/design.json": "a7095c722ace5794d3044fa208c8b52cfb34339ec3d0a3932f9c3c304132b1cd"
+  }
+}

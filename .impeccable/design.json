@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-26T10:39:46.647019+00:00",
+  "title": "Design System: QabylDesk",
+  "extensions": {
+    "colorMeta": {
+      "navy": {
+        "displayName": "Cabinet Navy",
+        "tonalRamp": [
+          "oklch(15% 0.07333 248.44)",
+          "oklch(26% 0.07333 248.44)",
+          "oklch(37% 0.07333 248.44)",
+          "oklch(48% 0.07333 248.44)",
+          "oklch(59% 0.07333 248.44)",
+          "oklch(70% 0.07333 248.44)",
+          "oklch(81% 0.07333 248.44)",
+          "oklch(95% 0.07333 248.44)"
+        ],
+        "role": "primary"
+      },
+      "ink": {
+        "displayName": "Body Ink",
+        "tonalRamp": [
+          "oklch(15% 0.05131 249.96)",
+          "oklch(26% 0.05131 249.96)",
+          "oklch(37% 0.05131 249.96)",
+          "oklch(48% 0.05131 249.96)",
+          "oklch(59% 0.05131 249.96)",
+          "oklch(70% 0.05131 249.96)",
+          "oklch(81% 0.05131 249.96)",
+          "oklch(95% 0.05131 249.96)"
+        ],
+        "role": "neutral"
+      },
+      "page": {
+        "displayName": "Pale Ground",
+        "tonalRamp": [
+          "oklch(15% 0.00929 242.84)",
+          "oklch(26% 0.00929 242.84)",
+          "oklch(37% 0.00929 242.84)",
+          "oklch(48% 0.00929 242.84)",
+          "oklch(59% 0.00929 242.84)",
+          "oklch(70% 0.00929 242.84)",
+          "oklch(81% 0.00929 242.84)",
+          "oklch(95% 0.00929 242.84)"
+        ],
+        "role": "neutral"
+      },
+      "surface": {
+        "displayName": "White Working Surface",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.00)",
+          "oklch(26% 0.00000 0.00)",
+          "oklch(37% 0.00000 0.00)",
+          "oklch(48% 0.00000 0.00)",
+          "oklch(59% 0.00000 0.00)",
+          "oklch(70% 0.00000 0.00)",
+          "oklch(81% 0.00000 0.00)",
+          "oklch(95% 0.00000 0.00)"
+        ],
+        "role": "neutral"
+      },
+      "line": {
+        "displayName": "Blue Rule",
+        "tonalRamp": [
+          "oklch(15% 0.02775 241.23)",
+          "oklch(26% 0.02775 241.23)",
+          "oklch(37% 0.02775 241.23)",
+          "oklch(48% 0.02775 241.23)",
+          "oklch(59% 0.02775 241.23)",
+          "oklch(70% 0.02775 241.23)",
+          "oklch(81% 0.02775 241.23)",
+          "oklch(95% 0.02775 241.23)"
+        ],
+        "role": "neutral"
+      },
+      "nav": {
+        "displayName": "Navigation Wash",
+        "tonalRamp": [
+          "oklch(15% 0.01946 240.74)",
+          "oklch(26% 0.01946 240.74)",
+          "oklch(37% 0.01946 240.74)",
+          "oklch(48% 0.01946 240.74)",
+          "oklch(59% 0.01946 240.74)",
+          "oklch(70% 0.01946 240.74)",
+          "oklch(81% 0.01946 240.74)",
+          "oklch(95% 0.01946 240.74)"
+        ],
+        "role": "neutral"
+      },
+      "muted": {
+        "displayName": "Quiet Blue Ink",
+        "tonalRamp": [
+          "oklch(15% 0.05108 245.00)",
+          "oklch(26% 0.05108 245.00)",
+          "oklch(37% 0.05108 245.00)",
+          "oklch(48% 0.05108 245.00)",
+          "oklch(59% 0.05108 245.00)",
+          "oklch(70% 0.05108 245.00)",
+          "oklch(81% 0.05108 245.00)",
+          "oklch(95% 0.05108 245.00)"
+        ],
+        "role": "neutral"
+      },
+      "input": {
+        "displayName": "Field Stroke",
+        "tonalRamp": [
+          "oklch(15% 0.04565 242.07)",
+          "oklch(26% 0.04565 242.07)",
+          "oklch(37% 0.04565 242.07)",
+          "oklch(48% 0.04565 242.07)",
+          "oklch(59% 0.04565 242.07)",
+          "oklch(70% 0.04565 242.07)",
+          "oklch(81% 0.04565 242.07)",
+          "oklch(95% 0.04565 242.07)"
+        ],
+        "role": "neutral"
+      },
+      "link": {
+        "displayName": "Link Blue",
+        "tonalRamp": [
+          "oklch(15% 0.09803 249.12)",
+          "oklch(26% 0.09803 249.12)",
+          "oklch(37% 0.09803 249.12)",
+          "oklch(48% 0.09803 249.12)",
+          "oklch(59% 0.09803 249.12)",
+          "oklch(70% 0.09803 249.12)",
+          "oklch(81% 0.09803 249.12)",
+          "oklch(95% 0.09803 249.12)"
+        ],
+        "role": "primary"
+      },
+      "primary": {
+        "displayName": "Action Green",
+        "tonalRamp": [
+          "oklch(15% 0.08204 173.03)",
+          "oklch(26% 0.08204 173.03)",
+          "oklch(37% 0.08204 173.03)",
+          "oklch(48% 0.08204 173.03)",
+          "oklch(59% 0.08204 173.03)",
+          "oklch(70% 0.08204 173.03)",
+          "oklch(81% 0.08204 173.03)",
+          "oklch(95% 0.08204 173.03)"
+        ],
+        "role": "primary"
+      },
+      "hover": {
+        "displayName": "Action Green Hover",
+        "tonalRamp": [
+          "oklch(15% 0.07176 173.05)",
+          "oklch(26% 0.07176 173.05)",
+          "oklch(37% 0.07176 173.05)",
+          "oklch(48% 0.07176 173.05)",
+          "oklch(59% 0.07176 173.05)",
+          "oklch(70% 0.07176 173.05)",
+          "oklch(81% 0.07176 173.05)",
+          "oklch(95% 0.07176 173.05)"
+        ],
+        "role": "primary"
+      },
+      "focus": {
+        "displayName": "Keyboard Orange",
+        "tonalRamp": [
+          "oklch(15% 0.13748 55.87)",
+          "oklch(26% 0.13748 55.87)",
+          "oklch(37% 0.13748 55.87)",
+          "oklch(48% 0.13748 55.87)",
+          "oklch(59% 0.13748 55.87)",
+          "oklch(70% 0.13748 55.87)",
+          "oklch(81% 0.13748 55.87)",
+          "oklch(95% 0.13748 55.87)"
+        ]
+      },
+      "error": {
+        "displayName": "Error Ink",
+        "tonalRamp": [
+          "oklch(15% 0.14583 27.85)",
+          "oklch(26% 0.14583 27.85)",
+          "oklch(37% 0.14583 27.85)",
+          "oklch(48% 0.14583 27.85)",
+          "oklch(59% 0.14583 27.85)",
+          "oklch(70% 0.14583 27.85)",
+          "oklch(81% 0.14583 27.85)",
+          "oklch(95% 0.14583 27.85)"
+        ]
+      },
+      "error-bg": {
+        "displayName": "Error Wash",
+        "tonalRamp": [
+          "oklch(15% 0.01650 26.65)",
+          "oklch(26% 0.01650 26.65)",
+          "oklch(37% 0.01650 26.65)",
+          "oklch(48% 0.01650 26.65)",
+          "oklch(59% 0.01650 26.65)",
+          "oklch(70% 0.01650 26.65)",
+          "oklch(81% 0.01650 26.65)",
+          "oklch(95% 0.01650 26.65)"
+        ]
+      },
+      "selection": {
+        "displayName": "Selected Text Green",
+        "tonalRamp": [
+          "oklch(15% 0.04409 174.61)",
+          "oklch(26% 0.04409 174.61)",
+          "oklch(37% 0.04409 174.61)",
+          "oklch(48% 0.04409 174.61)",
+          "oklch(59% 0.04409 174.61)",
+          "oklch(70% 0.04409 174.61)",
+          "oklch(81% 0.04409 174.61)",
+          "oklch(95% 0.04409 174.61)"
+        ]
+      },
+      "selection-ink": {
+        "displayName": "Selected Text Ink",
+        "tonalRamp": [
+          "oklch(15% 0.03602 177.75)",
+          "oklch(26% 0.03602 177.75)",
+          "oklch(37% 0.03602 177.75)",
+          "oklch(48% 0.03602 177.75)",
+          "oklch(59% 0.03602 177.75)",
+          "oklch(70% 0.03602 177.75)",
+          "oklch(81% 0.03602 177.75)",
+          "oklch(95% 0.03602 177.75)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Page h1; 1.75rem at the mobile breakpoint."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Article h2 and major working sections."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Authored section h3."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Native reading and field content."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Visible field and metadata labels."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Native explicit action controls."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Helper copy and letter metadata."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "button-link-color-transition",
+        "value": "background-color .15s ease-out, color .15s ease-out",
+        "purpose": "Buttons and links only under prefers-reduced-motion: no-preference."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "cabinet-stack",
+        "value": "760px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Explicit primary account or administrative command; static synthetic label.",
+      "html": "<div class=\"ds-primary-wrap\"><button class=\"ds-primary\" type=\"button\">Сохранить ручную отметку</button></div>",
+      "css": ".ds-primary-wrap{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);}.ds-primary{min-height:44px;border:1px solid var(--navy,#183e60);border-radius:7px;background:var(--surface,#fff);color:var(--navy,#183e60);padding:.65rem 1rem;font:inherit;font-weight:650;cursor:pointer;line-height:1.35;text-align:center;}.ds-primary:hover{background:var(--nav,#dce9f3)}.ds-primary:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}.ds-primary:disabled{opacity:.6;cursor:default}.ds-primary{color:var(--surface,#fff);background:var(--primary,#126653);border-color:var(--primary,#126653)}.ds-primary:hover{background:var(--hover,#0b5343)}@media(prefers-reduced-motion:no-preference){.ds-primary{transition:background-color .15s ease-out,color .15s ease-out}}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Explicit refresh, preview or other secondary action.",
+      "html": "<div class=\"ds-secondary-wrap\"><button class=\"ds-secondary\" type=\"button\">Обновить состояние</button></div>",
+      "css": ".ds-secondary-wrap{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);}.ds-secondary{min-height:44px;border:1px solid var(--navy,#183e60);border-radius:7px;background:var(--surface,#fff);color:var(--navy,#183e60);padding:.65rem 1rem;font:inherit;font-weight:650;cursor:pointer;line-height:1.35;text-align:center;}.ds-secondary:hover{background:var(--nav,#dce9f3)}.ds-secondary:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}.ds-secondary:disabled{opacity:.6;cursor:default}@media(prefers-reduced-motion:no-preference){.ds-secondary{transition:background-color .15s ease-out,color .15s ease-out}}"
+    },
+    {
+      "name": "Labeled Native Field",
+      "kind": "input",
+      "refersTo": "input-text",
+      "description": "Visible label and native full-width input; no runtime required.",
+      "html": "<div class=\"ds-field-wrap\"><label class=\"ds-label\" for=\"ds-packet-title\">Название черновика</label><input class=\"ds-input\" id=\"ds-packet-title\" value=\"Учебный пакет\" maxlength=\"200\"></div>",
+      "css": ".ds-field-wrap{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);}.ds-label{display:block;font-weight:650;margin-bottom:.35rem;}.ds-input{display:block;width:100%;max-width:100%;border:1px solid var(--input,#7894aa);border-radius:7px;padding:.7rem;background:var(--surface,#fff);color:var(--ink,#172e45);min-height:44px;font:inherit;caret-color:var(--navy,#183e60);}.ds-input:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}"
+    },
+    {
+      "name": "Manual Note Textarea",
+      "kind": "input",
+      "refersTo": "input-text",
+      "description": "Native authored note field; example text does not represent a saved mark.",
+      "html": "<div class=\"ds-note-wrap\"><label class=\"ds-note-label\" for=\"ds-note\">Основание ручной отметки</label><textarea class=\"ds-note\" id=\"ds-note\" aria-describedby=\"ds-note-help\" maxlength=\"2000\">Пример несохранённого авторского текста.</textarea><p class=\"ds-note-helper\" id=\"ds-note-help\">Открытие страницы ничего не отмечает.</p></div>",
+      "css": ".ds-note-wrap{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);}.ds-note-label{display:block;font-weight:650;margin-bottom:.35rem;}.ds-note{display:block;width:100%;max-width:100%;border:1px solid var(--input,#7894aa);border-radius:7px;padding:.7rem;background:var(--surface,#fff);color:var(--ink,#172e45);min-height:44px;font:inherit;caret-color:var(--navy,#183e60);min-height:8rem;resize:vertical}.ds-note:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}.ds-note-helper{color:var(--muted,#46627a);font-size:.9rem;margin:.3rem 0;overflow-wrap:anywhere}"
+    },
+    {
+      "name": "Cabinet Navigation",
+      "kind": "nav",
+      "refersTo": "navigation-current",
+      "description": "Wrapping native navigation with the actual current-page treatment; selected state is static.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Пример кабинета\"><div class=\"ds-nav-inner\"><button class=\"ds-nav-button\" type=\"button\" aria-current=\"page\">Черновики</button><button class=\"ds-nav-button\" type=\"button\">Опубликовано</button><button class=\"ds-nav-button\" type=\"button\">Выдачи</button></div></nav>",
+      "css": ".ds-nav{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);background:var(--nav,#dce9f3);border-bottom:1px solid var(--line,#b9cbd9)}.ds-nav-inner{max-width:1280px;margin:auto;padding:.7rem 1.25rem;display:flex;gap:.6rem;flex-wrap:wrap;align-items:center}.ds-nav-button{min-height:44px;border:1px solid var(--navy,#183e60);border-radius:7px;background:var(--surface,#fff);color:var(--navy,#183e60);padding:.65rem 1rem;font:inherit;font-weight:650;cursor:pointer;line-height:1.35;text-align:center;border-color:transparent;background:transparent}.ds-nav-button[aria-current=page]{border-color:var(--line,#b9cbd9);background:var(--surface,#fff)}.ds-nav-button:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}@media(prefers-reduced-motion:no-preference){.ds-nav-button{transition:background-color .15s ease-out,color .15s ease-out}}@media(max-width:760px){.ds-nav-inner{padding:.6rem 1rem}}"
+    },
+    {
+      "name": "Addressed Packet Index",
+      "kind": "custom",
+      "refersTo": "packet-link-current",
+      "description": "Ruled native selector with explicit textual metadata; selection is a static example.",
+      "html": "<aside class=\"ds-index\" aria-label=\"Пример адресованных пакетов\"><ul class=\"ds-index-list\"><li class=\"ds-index-row\"><button class=\"ds-index-button\" type=\"button\" aria-current=\"true\">Учебный пакет RU/KK</button><small class=\"ds-index-small\">Ожидает ручной отметки</small></li><li class=\"ds-index-row\"><button class=\"ds-index-button\" type=\"button\">Другой учебный пакет</button><small class=\"ds-index-small\">Ручная отметка сохранена</small></li></ul></aside>",
+      "css": ".ds-index{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);min-width:0}.ds-index-list{list-style:none;margin:0;padding:0}.ds-index-row{padding:1rem 0;border-bottom:1px solid var(--line,#b9cbd9)}.ds-index-row:first-child{border-top:1px solid var(--line,#b9cbd9)}.ds-index-button{min-height:44px;border:1px solid var(--navy,#183e60);border-radius:7px;background:var(--surface,#fff);color:var(--navy,#183e60);padding:.65rem 1rem;font:inherit;font-weight:650;cursor:pointer;line-height:1.35;text-align:center;width:100%;text-align:left;border:0;border-radius:0;padding:.55rem 0;background:transparent;display:block;font-size:1rem}.ds-index-button:hover{background:var(--nav,#dce9f3)}.ds-index-button[aria-current=true]{background:var(--nav,#dce9f3);padding:.55rem .7rem}.ds-index-button:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}.ds-index-small{display:block;color:var(--muted,#46627a);line-height:1.5;overflow-wrap:anywhere}@media(prefers-reduced-motion:no-preference){.ds-index-button{transition:background-color .15s ease-out,color .15s ease-out}}@media(max-width:760px){.ds-index-row{padding:.6rem 0}}"
+    },
+    {
+      "name": "Letter and Version Metadata",
+      "kind": "card",
+      "refersTo": "letter",
+      "description": "The built letter surface and ruled metadata; all text here is a synthetic static example.",
+      "html": "<article class=\"ds-letter\"><h2 class=\"ds-letter-title\">Учебный адресованный пакет</h2><p class=\"ds-letter-status\">Ожидает ручной отметки</p><dl class=\"ds-letter-meta\"><dt>Версия содержания</dt><dd>1</dd><dt>Версия выдачи</dt><dd>1</dd><dt>Язык при выдаче</dt><dd>Русский</dd></dl><h3 class=\"ds-letter-section\">Раздел учебного текста</h3><p class=\"ds-letter-body\">Это вымышленный текст для примера компонента. Он не является выдачей реальному аккаунту.</p><section class=\"ds-letter-statement\"><h2 class=\"ds-letter-title\">Ручная отметка аккаунта</h2><p class=\"ds-letter-body\">В приложении здесь находится явная форма после авторского текста.</p></section></article>",
+      "css": ".ds-letter{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);background:var(--surface,#fff);border:1px solid var(--line,#b9cbd9);border-radius:12px;padding:1.7rem;min-width:0}.ds-letter-title{font-size:1.4rem;line-height:1.2;text-wrap:balance;overflow-wrap:anywhere;margin:2rem 0 .8rem}.ds-letter>.ds-letter-title:first-child,.ds-letter-statement>.ds-letter-title{margin-top:0}.ds-letter-status{font-weight:650;color:var(--primary,#126653);max-width:75ch;overflow-wrap:anywhere}.ds-letter-meta{display:grid;grid-template-columns:minmax(8rem,auto) 1fr;gap:.3rem 1rem;border-bottom:1px solid var(--line,#b9cbd9);padding-bottom:1.2rem;margin:1.2rem 0 1.5rem;font-size:.9rem}.ds-letter-meta dt{font-weight:650}.ds-letter-meta dd{margin:0;overflow-wrap:anywhere}.ds-letter-section{font-size:1.1rem;line-height:1.2;text-wrap:balance;overflow-wrap:anywhere;margin:1.7rem 0 .7rem}.ds-letter-body{white-space:pre-wrap;overflow-wrap:anywhere;max-width:72ch}.ds-letter-statement{margin-top:2rem;border-top:1px solid var(--line,#b9cbd9);padding-top:1.5rem}@media(max-width:760px){.ds-letter{padding:1.2rem}.ds-letter-meta{grid-template-columns:1fr;gap:.2rem}.ds-letter-meta dd{margin-bottom:.5rem}}"
+    },
+    {
+      "name": "Status and Error Messages",
+      "kind": "custom",
+      "refersTo": "error",
+      "description": "Built neutral and semantic error blocks; static copy illustrates feedback without a live claim.",
+      "html": "<div class=\"ds-feedback\"><div class=\"ds-notice\" role=\"status\" tabindex=\"-1\">Пример сообщения состояния.</div><div class=\"ds-error\" role=\"alert\" tabindex=\"-1\">Пример сообщения об ошибке.</div></div>",
+      "css": ".ds-feedback{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);}.ds-notice,.ds-error{padding:1rem;border:1px solid var(--line,#b9cbd9);border-radius:7px;background:var(--surface,#fff);margin:0 0 1.5rem;max-width:none}.ds-error{color:var(--error,#942721);background:var(--error-bg,#fff0ee);border-color:var(--error,#942721)}.ds-notice:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}.ds-error:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}"
+    },
+    {
+      "name": "Native Snapshot Disclosure",
+      "kind": "custom",
+      "description": "Native details/summary and wrapped JSON block; browser marker and toggle remain native.",
+      "html": "<div class=\"ds-disclosure-wrap\"><details class=\"ds-disclosure\"><summary class=\"ds-summary\">Точный опубликованный состав — пример</summary><pre class=\"ds-json\">{\n  \"title\": \"Учебный пакет\",\n  \"version\": 1\n}</pre></details></div>",
+      "css": ".ds-disclosure-wrap{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.55;color:var(--ink,#172e45);}.ds-disclosure{border-bottom:1px solid var(--line,#b9cbd9);padding:.9rem 0}.ds-summary{cursor:pointer;font-weight:650;min-height:44px;align-content:center;overflow-wrap:anywhere}.ds-summary:focus-visible{outline:3px solid var(--focus,#bd671a);outline-offset:3px}.ds-json{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.85rem;max-height:32rem;overflow:auto;background:var(--nav,#dce9f3);padding:1rem;border-radius:7px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Кабинет как деловая переписка",
+    "overview": "QabylDesk presents addressed authored packets as readable business correspondence. The owner-confirmed form uses the inherited owned cabinet identity: a navy account frame, pale ground, ink text, white native fields and a green explicit action. This is a working cabinet with quiet separators and direct labels.\n\nIts signature is the relationship between an index and a letter-like article. The recipient reads the authored sections before reaching the manual account note. Administrative forms and native disclosures use the same material. The typography, status language and restrained surfaces keep the packet, its version and the account action distinguishable.",
+    "keyCharacteristics": [
+      "Native controls and system typography, inherited by explicit direction.",
+      "A navy identity frame above pale ground and white working surfaces.",
+      "A readable index/article relationship with ruled metadata.",
+      "Green explicit actions, orange keyboard focus and textual status.",
+      "RU/KK text that wraps without ornamental mail imagery."
+    ],
+    "rules": [
+      {
+        "name": "The State Has Words Rule",
+        "body": "Color accompanies an explicit status, field label or action label. A green status remains text, without an invented badge or icon vocabulary.",
+        "section": "colors"
+      },
+      {
+        "name": "The Native Voice Rule",
+        "body": "Extend the confirmed native cabinet typography; the system face is an inherited product decision, rather than a proposed display identity.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Working Surface Rule",
+        "body": "Preserve the built tonal and ruled separation when adding cabinet surfaces; the white article does not require a simulated sheet, stamp or lifted shadow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** preserve the navy account frame, pale ground and white working surfaces.",
+      "**Do** keep the index/article relationship, collapsing to index first at the authored breakpoint.",
+      "**Do** use visible native labels, wrapping actions and the shared orange focus outline.",
+      "**Do** distinguish metadata from authored text and place the manual-note section after the text.",
+      "**Do** reuse plain textual statuses and explicit working/history navigation."
+    ],
+    "donts": [
+      "**Don't** introduce email-client chrome, envelopes, stamps or chat bubbles into the confirmed correspondence form.",
+      "**Don't** replace the confirmed native typography and controls with a marketing hero or decorative display system.",
+      "**Don't** introduce fictional inbox counts, delivery/read receipts or legal-signature imagery.",
+      "**Don't** turn a static component example into evidence of a live account, persisted action or tested interaction."
+    ]
+  }
+}
